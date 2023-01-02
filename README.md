@@ -11,3 +11,5 @@ Then you just need to press transfer. All cookies of the folders at the root fol
 # Support:
 - Transfer cookies from 1 profile to many other profiles.
 - Move multiple profiles to their respective profiles
+# Download
+- [Download](https://github.com/s0ckd3/Gologin-Transfers-Cookies/releases/tag/Gologin)
